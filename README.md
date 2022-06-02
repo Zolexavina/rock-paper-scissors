@@ -1,2 +1,2 @@
-# rock-paper-scissors
-Zuri Python Task for creating the Titular game
+# Rock Paper Scissors
+Zuri Python Task for creating the titular game. I made use of Python in creating the program. First, the player or user types in their gameplay which is either a rock (R), paper (P) or scissors (S). Then the CPU also makes a play using random.choice(). The winner is arrived at using the classic rule for the game after which the program ends. If there's a tie, the game is repeated.
